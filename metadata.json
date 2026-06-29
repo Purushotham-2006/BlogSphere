@@ -1,0 +1,6 @@
+{
+  "name": "BlogSphere AI",
+  "description": "A premium, production-grade blogging platform with advanced AI-powered writing tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
